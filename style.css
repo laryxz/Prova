@@ -11,10 +11,15 @@ header {
     color: rgb(rgb(52, 7, 88), rgb(136, 3, 54), blue);
 }
 section {
-background: rgb(rgb(170, 12, 12)
+background: rgb(170, 12, 17)
+padding-botom:80 px
+padding-top:80 px          
+display:flex;
+justify-content: center;    
 }
-p{
-    color: brown;
+{
+.chamada-texto{
+ margin-right: 5%;    
 }
 
 .tarde{
